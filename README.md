@@ -20,11 +20,15 @@ This project is built for healthcare analytics and NLP learners who want to expl
 Patient-Feedback-Sentiment-Analyzer/
 │
 ├── app.py                    # Streamlit main app
+
 ├── requirements.txt          # Python dependencies
+
 ├── .gitignore                # Ignoring large model and cache files
+
 │
 ├── data/
 │   └── reviews.csv           # Sample test dataset
+
 │ 
 │
 └── docs/
